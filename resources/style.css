@@ -40,3 +40,13 @@ a {
     font-weight: 300;
     font-size: 42px;
 }
+
+video {
+    display: block;
+    margin: auto;
+}
+
+.image {
+    display: block;
+    margin: auto;
+}
